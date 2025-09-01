@@ -13,9 +13,9 @@ Currently, in my free time, I am working on personal projects that challenge me 
 
 💻 Professional experience: Software developer focused on backend development, creating processes using C and Oracle databases on Linux servers.
 
-🎓 Education: Control and Automation Engineering (Expected completion date: 2024)
+🎓 Education: Control and Automation Engineering
 
-🌱 Currently Learning: AWS, Object-Oriented Programming, Generative AI (Prompt Engineering), Machine Learning
+🌱 Currently Learning: AWS, Object-Oriented Programming, Generative AI (Prompt Engineering), Machine Learning, Node.js
 
 ## 🛠️ Technical Skills
 ### Programming Languages:
