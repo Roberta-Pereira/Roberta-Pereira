@@ -13,9 +13,9 @@ Atualmente, no meu tempo livre, estou trabalhando em projetos pessoais que me de
 
 💻 Experiência Profissional: Desenvolvedora de software com foco em backend para desenvolvimentos de processos em C e banco de dados Oracle
 
-🎓 Educação: Engenharia de Controle e Automação - UFMG (Previsão de conclusão: 2024)
+🎓 Educação: Engenharia de Controle e Automação - UFMG
 
-🌱 Atualmente Aprendendo: AWS, Programação Orientada a Objetos, GenAI (Engenharia de Prompt), Machine Learning
+🌱 Atualmente Aprendendo: AWS, Programação Orientada a Objetos, GenAI (Engenharia de Prompt), Machine Learning, Node.js
 
 ## 🛠️ Habilidades Técnicas
 ### Linguagens de Programação:
@@ -52,3 +52,4 @@ Atualmente, no meu tempo livre, estou trabalhando em projetos pessoais que me de
 <a href="https://github.com/roberta-pereira" target="_blank" rel="noreferrer">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberta-pereira&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roberta-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a>
+
